@@ -1,0 +1,4 @@
+Relative Humidity
+Wind Speed
+Precipitation rate
+Wind reference height

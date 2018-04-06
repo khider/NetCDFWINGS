@@ -1,0 +1,9 @@
+Total cloud cover
+Relative Humidity
+Wind Speed
+Albedo
+Skin temperature
+Surface pressure
+Forecast surface roughness
+Precipitation rate
+Wind reference height
